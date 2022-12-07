@@ -19,3 +19,4 @@ Content-Type: application/json
 
 ### PAYMENT
 GET http://localhost:8080/api/v1/payment
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2NzA0MjIxODh9.43mOccy_11wx0lSVqMh6euoN5pPrTd9Rdzggd6QngCk
