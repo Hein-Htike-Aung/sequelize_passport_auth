@@ -6,7 +6,6 @@ const cors = require("cors");
 require("./auth/passport");
 
 const middlewares = require("./middlewares");
-const api = require("./api");
 
 const app = express();
 
